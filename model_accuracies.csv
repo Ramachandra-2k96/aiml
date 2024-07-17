@@ -1,0 +1,14 @@
+Model,Accuracy
+Logistic Regression,0.7412587412587412
+K-Nearest Neighbors,0.7902097902097902
+Decision Tree,0.7692307692307693
+Random Forest,0.7622377622377622
+Gradient Boosting,0.7902097902097902
+AdaBoost,0.7342657342657343
+Gaussian Naive Bayes,0.7762237762237763
+Support Vector Classifier,0.8041958041958042
+MLP Classifier,0.8041958041958042
+Linear Discriminant Analysis,0.7622377622377622
+Extra Trees Classifier,0.7482517482517482
+XGBoost,0.7902097902097902
+Ensemble Model,0.8041958041958042
